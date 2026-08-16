@@ -7,6 +7,7 @@ To use:
 * Make a new folder with a name you'll remember (ex. qBittorrent BU script) and put the .bat file in there.
 * Run the .bat file and it will grab the necessary files, and place them in a folder tree that looks like this:
 
+```
 📂 qBittorrent BU Script
 |
 --> qBitorrent BU.bat
@@ -22,5 +23,6 @@ To use:
         --> 📂 qBittorrent folder
                |
                --> [files]
+```
 
-Once you have your backups, if you need to uninstall and reinstall, reformat your computer, or whatever your plans are, simply reinstall qBittorrent. Then copy 📂 **local** and 📂 **roaming** to their respective folders.
+Once you have your backups, if you need to uninstall and reinstall, reformat your computer, or whatever your plans are, simply reinstall qBittorrent. Then copy 📂 **local** and 📂 **roaming** to their respective places and replace all files.
